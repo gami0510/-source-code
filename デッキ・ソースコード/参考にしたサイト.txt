@@ -1,0 +1,7 @@
+参考にしたURL等を記載する。
+
+https://yuus01.info/game-make/unity_tcg_make1/
+↑カード作成・管理・データ取り扱いサイト
+
+https://www.youtube.com/watch?v=jknIdHFEBks&list=PLeWwtNsNObD2f_bogbCo0PGfEIZoi6Rwt
+↑カード一覧作成時に参考にしたYouTubeサイト（海外の説明）GetClildeを使用する。（使い方は「GetClildeについて」参考）
